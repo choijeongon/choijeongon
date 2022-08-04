@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 SSAFY 8기
+- 🔭 SSAFY 8기
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
