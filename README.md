@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> &nbsp </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijeongon)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 <img src="https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
