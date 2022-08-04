@@ -2,7 +2,6 @@
 
 - 🔭 현재 SSAFY 8기, Java 전공
 - 🌱 FullStack Developer
-- 🤔 삼성 SW 역량 테스트 A등급 (예정)
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="left">
@@ -16,6 +15,7 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijeongon)](https://github.com/anuraghazra/github-readme-stats)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chms03330)](https://solved.ac/kinetic27) </p>
 
 <!--
