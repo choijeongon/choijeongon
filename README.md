@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 현재 SSAFY 8기, Java 전공
-- 🌱 FullStack Developer
+- 🔭 SSAFY 8기, Java 전공
+- 🌱 FullStack Developer(Flutter, Spring)
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="left">
