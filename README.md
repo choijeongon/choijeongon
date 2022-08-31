@@ -6,6 +6,9 @@
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="left">
+ - Front-end
+ - Back-end
+ - App
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a> &nbsp
