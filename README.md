@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chms03330)](https://solved.ac/kinetic27)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chms03330)](https://solved.ac/chms03330)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijeongon)](https://github.com/anuraghazra/github-readme-stats)
  </p>
