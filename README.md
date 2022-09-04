@@ -28,11 +28,12 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=choijeongon" height="165">
+
+<!--
 <p align="left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijeongon)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
-<!--
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chms03330)](https://solved.ac/chms03330)
 <img src="https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
