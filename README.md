@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 SSAFY 8기, Java 전공
-- ⚡ SW 역량테스트 모의 A형 취득
 - 🌱 FullStack Developer
+- ⚡ SW 역량테스트 모의 A형 취득
+- 🔭 SSAFY 8기, Java 전공(2022.07~ )
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chms03330">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=choijeongon" height="165">
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="left"><b>Front</b></h4>
@@ -28,7 +30,6 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=choijeongon" height="165">
 
 <!--
 <p align="left">
