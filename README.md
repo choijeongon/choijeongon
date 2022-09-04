@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 <p align="left">
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chms03330)](https://solved.ac/chms03330)
+[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chms03330)](https://solved.ac/chms03330)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijeongon)](https://github.com/anuraghazra/github-readme-stats)
 
