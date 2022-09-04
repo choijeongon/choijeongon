@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 FullStack Developer
-- ⚡ SW 역량테스트 모의 A형 취득
-- 🔭 SSAFY 8기, Java 전공(2022.07~ )
+- 🌱 I’m currently learning Spring, Vue.js
+- 💻 I majored in Computer Science & Engineering
+- ⚡ SW 역량테스트 모의 A형 취득 (2022.08)
+- ⌨️ SSAFY 8기, Java 전공(2022.07~ )
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chms03330">
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
