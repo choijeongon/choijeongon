@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Spring, Vue.js
+- 🌱 I’m currently learning algorithm, Spring, Vue.js
 - 💻 I majored in Computer Science & Engineering
 - ⚡ SW 역량테스트 모의 A형 취득 (2022.08)
 - ⌨️ SSAFY 8기, Java 전공(2022.07~ )
