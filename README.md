@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning algorithm, Spring, Vue.js
-- 💻 I majored in Computer Science & Engineering
+- 🌱 나날이 성장하는 개발자입니다.
+- 💻 미래의 CTO가 될 것입니다!
 - ⚡ SW 역량테스트 모의 A형 취득 (2022.08)
 - ⌨️ SSAFY 8기, Java 전공(2022.07~ )
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chms03330">
