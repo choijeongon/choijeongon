@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 계속 성장하려고 노력하는 사람입니다.
-- 💻 칠전팔기의 마음으로 넘어져도 다시 일어날 수 있습니다. 
+- 🌱 계속 성장하려고 노력합니다.
+- 🏃‍♂️ 넘어져도 다시 도전합니다.
 - ⚡ SW 역량테스트 모의 A형 취득 (2022.08)
 - ⌨️ SSAFY 8기, Java 전공(2022.07~ )
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chms03330">
