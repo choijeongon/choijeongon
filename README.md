@@ -18,7 +18,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
  </p>
  <img align='right' src="https://github-readme-stats.vercel.app/api?username=choijeongon" height="165">
 <h4 align="left"><b>App</b></h4>
