@@ -9,10 +9,11 @@
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="left"><b>Front</b></h4>
 <p align="left">
+ <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+ <img src="https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
  </p>
 <h4 align="left"><b>Back</b></h4>
 <p align="left">
