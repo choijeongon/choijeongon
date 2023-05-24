@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🌱 계속 성장하려고 노력합니다.
-- 🏃‍♂️ 한번 실패해도 계속 도전합니다.
 - ⚡ SW 역량테스트 모의 A형 취득 (2022.08)
-- ⌨️ SSAFY 8기, Java 전공(2022.07~ )
+- ⌨️ SSAFY 8기, Java 전공 (2022.07~2022.12)
+- 🏆 SSAFY NFT 헌혈증서 플랫폼, Here - 특화 프로젝트 우수상(2023.04)
+- 🏆 SSAFY 더빙하며 배우는 영어 스피킹, dubEng - 자율 프로젝트 최우수상(2023.05)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chms03330">
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
