@@ -5,6 +5,7 @@
 - ⌨️ SSAFY 8기, Java 전공 (2022.07~2022.12)
 - 🏆 NFT 헌혈증서 플랫폼, Here - 특화 프로젝트 우수상(2023.04)
 - 🏆 더빙하며 배우는 영어 스피킹, dubEng - 자율 프로젝트 최우수상(2023.05)
+- 🏆 2023 미래산업 인재육성 컨퍼런스 VALUE UP 프로젝트 공모전 금상(2023.05)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chms03330">
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
